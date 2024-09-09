@@ -28,5 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishshivhare&show_icons=true&locale=en" alt="manishshivhare" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishshivhare&" alt="manishshivhare" /></p>
+
 <p><img align="center" src="https://codolio.com/profile/manishshivhare" alt="manishshivhare" /></p>
