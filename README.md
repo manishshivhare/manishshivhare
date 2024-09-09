@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://blog-manish-shivhare.onrender.com/](https://blog-manish-shivhare.onrender.com/)
 
-- 💬 Ask me about **react.js, redux, express.js, nosql, MongoDB**
+- 💬 Ask me about **react.js, redux, express.js, nosql, MongoDB, Node.js**
 
 - 📫 How to reach me **mshivhare167@gmail.com**
 
