@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog-manish-shivhare.onrender.com/](https://blog-manish-shivhare.onrender.com/)
 
-- 💬 Ask me about **react.js, redux, tailwind, mongoDB, express**
+- 💬 Ask me about **react.js, redux, tailwind, mongoDB, express, docker, aws**
 
 - 📫 How to reach me **mshivhare167@gmail.com**
 
